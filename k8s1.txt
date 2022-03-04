@@ -1,0 +1,23 @@
+ll /opt/
+cat /opt/blog.txt
+kubectl create secret generic blog --from-file=/opt/blog.txt
+kubectl get pods
+vi /tmp/secret.yml
+apiVersion: v1
+kind: Pod
+metadata:
+   name: secret-xfusion
+   labels:
+      name: myapp
+spec:
+  containers:
+    - name: secret-container-xfusion
+      image: ubuntu:latest
+      command: ["sleep 10000"]  
+      volumeMounts:
+          mountPath: /opt/games
+          
+kubectl create -f /tmp/secret.yml
+kubectl get pods
+kubectl exec secret-datacenter -- cat /opt/games/blog.txt
+["/bin/sh", "-ec", "sleep 1000"]

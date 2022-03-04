@@ -1,0 +1,32 @@
+17:29 Introduction to Linux
+23:40 Linux Lab Setup (RHEL 8 Installation)
+31:58 Accessing Linux Server GUI & CLI
+40:59 Getting Started with Linux Basic Commands
+54:56 Few More Linux Basic commands
+01:30:20 Standard Input, Output and Error redirection
+01:44:55 Grep Command with regular expressions
+02:01:18 tar & zip commands to Archive and compress, File & directories
+02:22:47 vi Editor Modes Explained
+02:34:13 vi Editor Practical
+02:46:49 Getting help from Command Line User Interface
+03:03:35 SSH Server & Client Installation and configuration
+03:29:14 Reset Linux root user password (Gain Access to the system)
+03:35:45 SCP - Transfer Data from one server to another server securely
+03:45:59 Listing and Managing Linux processes
+04:12:10 Creating standard Linux partitions
+04:31:09 Deleting standard Linux partitions
+04:35:11 Creating PVs, VGs, and LVM
+04:52:45 Extend Logical Volumes non-destructively
+ 05:03:36 Reduce LVM size - lvreduce
+05:09:18  Swap Memory Explained
+05:21:31 Creating Users and Groups
+05:44:46 Modify user properties | Password age
+05:57:39 Deleting users and groups
+06:09:21 Files & directory permissions
+06:32:36 Access control list - ACL
+06:49:41 Special Linux file permissions Set-GID, Set-UID, Sticky Bit
+07:29:58 Sudo access - sudoers policy
+07:54:29 Linux Networking | Assign Static IP
+08:39:35 Firewall Rules | firewalld | Firewall-cmd
+09:00:23 SELinux to enforcing policies
+09:27:00 YUM Repository | AppStream | BaseOS

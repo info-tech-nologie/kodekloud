@@ -1,0 +1,24 @@
+- name: install httpd and setup index.html
+  hosts: stapp01, stapp02, stapp03
+  become: yes
+  tasks:
+    - name: install httpd
+      package:
+        name: httpd
+        state: present
+    - name: start service httpd, if not started
+      service:
+        name: httpd
+        state: started
+    - name: Add content in index.html
+      copy:
+        dest: /var/www/html/index.html
+        content: This is a Nautilus sample file, created using Ansible!
+        mode: "0777"
+        owner: apache
+        group: apache
+    - name: Update index.html
+      lineinfile:
+        path: /var/www/html/index.html
+        insertbefore: BOF
+        line: Welcome to Nautilus Group!

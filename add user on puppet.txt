@@ -1,0 +1,9 @@
+class user_creator {
+user { 'kareem':
+ensure   => present,
+uid => 1204,
+ }
+}
+node 'stapp01.stratos.xfusioncorp.com' {
+include user_creator
+}

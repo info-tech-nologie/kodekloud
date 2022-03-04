@@ -1,0 +1,9 @@
+class file_creator {
+  # Now create media.txt under /opt/finance
+  file { '/opt/finance/media.txt':
+    ensure => 'present',
+  }
+}
+ node 'stapp02.stratos.xfusioncorp.com' {
+  include file_creator
+}

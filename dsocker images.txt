@@ -1,0 +1,13 @@
+ssh tony@stapp01
+sudo su -
+docker images
+docker save -o /tmp/games.tar games:devops
+ll /tmp/
+scp /tmp/games.tar banner@stapp03:/tmp
+ssh banner@stapp03
+sudo su -
+ll /tmp/
+systemctl start docker
+systemctl status docker
+docker load -i games.tar
+docker images

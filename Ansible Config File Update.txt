@@ -1,0 +1,5 @@
+sudo su -
+cat /etc/ansible/ansible.cfg |grep remote
+vi /etc/ansible/ansible.cfg
+
+#default user to use for playbooks if ... remote_user =root ---> john

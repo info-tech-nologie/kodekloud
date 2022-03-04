@@ -1,0 +1,10 @@
+class data_replacer {
+  file_line { 'line_replace':
+    path => '/opt/sysops/games.txt',
+    match => 'Welcome to Nautilus Industries!',
+    line  => 'Welcome to xFusionCorp Industries!',
+  }
+}
+node 'stapp02.stratos.xfusioncorp.com' {
+  include data_replacer
+}

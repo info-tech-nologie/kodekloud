@@ -1,0 +1,22 @@
+1.GIT, 
+2.GitHub,
+3.maven, 
+4.Jenkins, 
+5.docker,
+6.Ansible, 
+7.Nagios,
+8.Sonar qube,
+9.apache tomcat,
+10.promethues 
+11. Grafana
+12. Kibana,
+13.taraform,
+14.packer,
+15.shell script ,
+16.Linux cmnds,
+17.VM Ware +CentOS/Ubuntu
+18.kubernates
+19.JIRA
+20.Python+boto3 and Helm.
+AWS 15+ cloud services provide:-
+(IAM,EC2,RDS,S3,CLOUD WATCH,AUTO SCALING,VPC, LAMBDA, SNS, CLOUD FRONT, Elastic Beanstack, DynamoDB, Elastic Cache,ELB,EBS....

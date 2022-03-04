@@ -1,0 +1,35 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: secret-xfusion
+spec:
+  containers:
+  - image: ubuntu:latest
+    name: secret-container-xfusion
+    command: ["/bin/bash", "-c", "sleep 10000"]
+    volumeMounts:
+    - mountPath: /opt/games
+      name: test-volume
+      readOnly: true
+  volumes:
+  - name: test-volume
+    secret:
+        secretName: blog
+
+apiVersion: v1
+kind: Pod
+metadata:
+  name: secret-datacenter
+spec:
+  containers:
+  - name: secret-container-datacenter
+    image: centos:latest
+    command: ["/bin/bash", "-c", "sleep 10000"]
+    volumeMounts:
+    - name: secret-volume-datacenter
+      mountPath: "/opt/games"
+      readOnly: true
+  volumes:
+  - name: secret-volume-datacenter
+    secret:
+      secretName: blog
