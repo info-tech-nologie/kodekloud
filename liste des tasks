@@ -1,0 +1,192 @@
+Rolling Updates in Kubernetes	
+Ansible File Module	
+Run a Docker Container	
+Install Docker Package
+Deploy Grafana on Kubernetes Cluster
+Create Cronjobs in Kubernetes	
+Puppet Add Users
+Ansible Inventory Update
+Run a Docker Container
+Fix Issue with VolumeMounts in Kubernetes
+Docker Ports Mapping	
+Git Revert Some Changes	
+Creating Soft Links Using Ansible
+Deploy Node App on Kubernetes
+Puppet Setup NTP Server	
+Countdown job in Kubernetes
+Ansible Unarchive Module
+Init Containers in Kubernetes
+Ansible Unarchive Module
+Save, Load and Transfer Docker Image
+Git Create Branches	
+Puppet Setup SSH Keys	
+Persistent Volumes in Kubernetes	
+Ansible Unarchive Module
+Fix issue with PhpFpm Application Deployed on Kubernetes
+Puppet Create Symlinks
+Set Limits for Resources in Kubernetes	
+Puppet Setup SSH Keys
+Ansible Lineinfile Module
+Manage Secrets in Kubernetes
+Fix issue with PhpFpm Application Deployed on Kubernetes
+Ansible Unarchive Module
+Rolling Updates in Kubernetes
+Deploy Nginx Web Server on Kubernetes Cluster
+Deploy Grafana on Kubernetes Cluster
+Puppet Create Symlinks	
+Deploy Guest Book App on Kubernetes
+Deploy Jenkins on Kubernetes
+Create Namespaces in Kubernetes Cluster	
+Ansible Inventory Update
+Puppet Setup Database	
+Completed 30 Tasks In a Row	
+Kubernetes Time Check Pod
+Setup Puppet Certs
+Create Pods in Kubernetes Cluster
+Using Ansible Conditionals
+Ansible Copy Module
+Docker Copy Operations
+Creating Soft Links Using Ansible
+Ansible Setup Httpd and PHP
+Ansible Create Users and Groups
+Ansible Blockinfile Module
+Rollback a Deployment in Kubernetes
+Git Clone Repositories	
+Ansible Basic Playbook	
+Puppet String Manipulation
+Deploy Nginx and Phpfpm on Kubernetes	
+Puppet Setup File Permissions
+Create Deployments in Kubernetes Cluster
+Git Repository Update	
+Create a Docker Image From Container
+Kubernetes Sidecar Containers	
+Git Install and Create Bare Repository	
+Deploy Nagios on Kubernetes	
+Git Setup from Scratch	
+Ansible File Module
+Countdown job in Kubernetes
+Deploy Tomcat App on Kubernetes
+Environment Variables in Kubernetes
+Setup Puppet Certs Autosign
+Ansible Archive Module
+Init Containers in Kubernetes
+Puppet Setup SSH Keys	
+Git Install and Create Repository	
+Managing Jinja2 Templates Using Ansible	
+Completed 20 Tasks In a Row	
+Puppet Create a FIle
+Ansible Replace Module
+Rolling Updates And Rolling Back Deployments in Kubernetes
+Deploy Apache Web Server on Kubernetes CLuster
+Create Cronjobs in Kubernetes	
+Completed 15 Tasks In a Row	
+Run a Docker Container	
+Git Manage Remotes
+Git Fork a Repository
+Deploy MySQL on Kubernetes	
+Puppet Manage Services	
+Git Create Branches
+DNS Troubleshooting
+Create a Cron Job
+Disable Root Login
+NFS Troubleshooting
+Create a group	
+Apache Troubleshooting	
+Linux SSH Authentication
+Linux Archives		
+Ansible Ping Module Usage
+Fix Python App Deployed on Kubernetes Cluster	
+Create Replicaset in Kubernetes Cluster	
+Fix Issue with VolumeMounts in Kubernetes	
+Kubernetes Shared Volumes
+Puppet Multi-Packages Installation
+Puppet Add Users
+Git Revert Some Changes
+Rolling Updates in Kunbernetes
+Persistent Volumes in Kubernetes
+Kubernetes Troubleshooting
+Update an Existing Deployment in Kubernetes
+Puppet Setup NTP Server	
+Deploy Node App on Kubernetes	
+ReplicationController in Kubernetes
+Troubleshoot Issue With Pods
+Managing ACLs Using Ansible
+Ansible Facts Gathering	
+Puppet Install a Package
+Kubernetes Redis Deployment
+Set Limits for Resources in Kubernetes
+Ansible Config File Update
+Save, Load and Transfer Docker Image
+Troubleshoot Deployment issues in Kubernetes
+Ansible Lineinfile Module
+Git Merge Branches
+Install Docker Package
+Resolve Dockerfile Issues
+Manage Git Repositories
+Create a Docker Network	
+Resolve Git Merge Conflicts	
+Fix issue with PhpFpm Application Deployed on Kubernetes
+Manage Secrets in Kubernetes
+Pull Docker Image
+Print Environment Variables
+Docker EXEC Operations	
+Docker Ports Mapping
+Docker Volumes Mapping
+Configure Local Yum repos
+Apache Redirects
+Add Response Headers in Apache	
+Linux Configure sudo	
+Web Server Security
+Linux Bash Scripts
+Install a package
+Linux Find Command
+Linux LogRotate	
+Linux Run Levels
+Linux Remote Copy
+Selinux Installation
+Linux Banner	
+Linux NTP Setup	
+Linux User Without Home
+MariaDB Troubleshooting	
+Apache Troubleshooting	
+Linux Postfix Troubleshooting	
+Disable Root Login
+Linux User Files
+Linux Archives	
+Linux String Substitute (sed)	
+Create a Cron Job
+Linux Postfix Troubleshooting	
+Linux Services
+Linux String Substitute	
+Linux Collaborative Directories
+Linux User Expiry
+DNS Troubleshooting
+Create a Linux User with non-interactive shell	
+Linux File Permissions	
+Linux TimeZones Setting	
+Linux Network Services
+Install and Configure HaProxy LBR	
+Linux Firewalld Setup	
+Configure Local Yum repos
+Linux Find Command
+Install a package
+Linux Nginx as Reverse Proxy
+Setup SSL for Nginx
+Application Security
+Linux Bash Scripts
+Linux Resource Limits	
+Web Server Security
+Configure protected directories in Apache
+Linux Run Levels
+Linux Banner
+Linux Remote Copy
+Linux User Without Home	
+Linux String Substitute
+Haproxy LBR Troubleshooting
+Linux Firewalld Rules	
+MariaDB Troubleshooting	
+Linux User Expiry
+Create a user
+Selinux Installation
+Linux Services	
+Create a Linux User with non-interactive shell	
